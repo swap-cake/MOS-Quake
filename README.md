@@ -2,6 +2,10 @@
 
 Reallllllyyyyyy simple fix for the Mac Source Ports Version of vkQuake not working
 
+-WARNING- this program is useless and only exists cause i put my id1 folder in the wrong place lol
+![image](https://github.com/user-attachments/assets/abd07f1e-1728-4dc3-8ba8-ce210d95b2d6)
+
+
 Info:                                 
 -Makes a simple shell script that simply opens the app in way that doesn't cause the usual "Couldn't load gfx.wad" error                      
 -Comes with .pkg for an easy install                                 
