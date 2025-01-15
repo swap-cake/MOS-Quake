@@ -17,3 +17,4 @@ How to install:
 -If u get an error relating to .command permissons run this in terminal "chmod +x /Applications/MOS-QUAKE.command"                                 
 -Hopefully everything works and now u can play Quake in peace yippee!!!!!                                 
 		
+credits to the mac source ports guy on discord for the help lol
