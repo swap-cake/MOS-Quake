@@ -12,3 +12,4 @@ How to install:
 -open "MOS-Quake" in applications
 -If u get an error relating to .command permissons run this in terminal "chmod +x /Applications/MOS-QUAKE.command"
 -Hopefully everything works and now u can play Quake in peace yippee!!!!!
+		
